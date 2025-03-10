@@ -1,5 +1,3 @@
-# 🚀 WebCrawler-Pro – Dokumentation und Bedienungsanleitung
-
 ## WebCrawler-Pro: Web Scraper mit API & Quellcode | Funktionsreich, Sicher & Frei Nutzbar
 
 📌 **Beschreibung der Software**
