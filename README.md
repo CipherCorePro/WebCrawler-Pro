@@ -1,4 +1,4 @@
-## WebCrawler-Pro: Web Scraper mit API & Quellcode | Funktionsreich, Sicher & Frei Nutzbar
+# WebCrawler-Pro: Web Scraper mit API & Quellcode | Funktionsreich, Sicher & Frei Nutzbar
 
 📌 **Beschreibung der Software**
 
@@ -35,7 +35,7 @@ WebCrawler-Pro ist ein sofort einsatzbereites System für automatisiertes Web-Da
     *   **Rate Limiting** (konfigurierbar) zum Schutz der API und zur Einhaltung von Webseiten-Nutzungsbedingungen.
 
 *   **Sicherheitsorientiertes Design & API-Key Authentifizierung:**
-    *   **Primär textorientierte Extraktion** mit optionaler HTML/CSS-Datenextraktion minimiert potenzielle Sicherheitsrisiken.
+    *   Bietet primär textorientierte Extraktion, die durch optionale HTML/CSS-Datenextraktion ergänzt wird. Implementierte Sicherheitsprüfungen minimieren potenzielle Risiken bei der HTML/CSS-Extraktion.
     *   **Gezielter Scraping-Ansatz** für einzelne URLs (keine automatische Unterlink-Verfolgung) für kontrollierte Datenerfassung.
     *   **Umfassende Sicherheitsfunktionen:** API-Key-Authentifizierung, Ratenbegrenzung, CSS-Selektor-Validierung und Pfadvalidierung für Processing-Funktionen.
     *   **Integrierter API-Key Generator (`key_generator.py`)** zur einfachen und sicheren Verwaltung von API-Keys.
@@ -270,7 +270,6 @@ A: Ja, WebCrawler-Pro verwendet `aiohttp` für schnelle Abrufe und Selenium und 
 *   **Selenium:** 🌐 Ein Framework für die Automatisierung von Webbrowsern. WebCrawler-Pro verwendet Selenium als Fallback, um Webseiten dynamisch abzurufen und JavaScript-Inhalte zu rendern, falls der primäre Abruf mit `aiohttp` fehlschlägt.
 *   **aiohttp:** 🚀 Eine Python-Bibliothek für asynchrone HTTP-Client-/Server-Kommunikation. WebCrawler-Pro verwendet `aiohttp` als primäre Methode für schnelle und effiziente Webseitenabrufe.
 
-
 ---
 
 📩 **Interesse geweckt?**
@@ -279,5 +278,5 @@ Kontaktieren Sie uns direkt für weitere Informationen, eine persönliche Demo o
 
 **E-Mail:** 📧 support@ciphercore.de
 
-**Webseite:** 🌐 www.ciphercore.de 
+**Webseite:** 🌐 www.ciphercore.de
 
